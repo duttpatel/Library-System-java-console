@@ -1,0 +1,86 @@
+Transcation Id: T500001
+Issue Date: Thu Jul 27 18:30:42 IST 2017
+Due Date: Thu Jul 27 18:30:42 IST 2017
+Fine Amount: 0.0
+Lib Id: L
+Pendig Books: 5
+Member Id: S1002
+Member Name: Student2
+Member Type: Student
+Book Id: B105
+Book Name: Natures Blueprint: Supersymmetry and the Search for a Unified Theory of Matter and Force
+Number Of Books Available 5
+Transcation Id: T500002
+Issue Date: Thu Jul 27 18:32:12 IST 2017
+Due Date: Thu Jul 27 18:32:12 IST 2017
+Fine Amount: 0.0
+Lib Id: L
+Pendig Books: 3
+Member Id: S1002
+Member Name: Student2
+Member Type: Student
+Book Id: B109
+Book Name: Nuclear Structure from a Simple Perspective - Oxford Studies in Nuclear physics
+Number Of Books Available 7
+Transcation Id: T500001
+Issue Date: Thu Jul 27 18:30:42 IST 2017
+Return Date: Thu Jul 27 18:34:27 IST 2017
+Due Date: Thu Jul 27 18:30:42 IST 2017
+Fine Amount: 0.0
+Lib Id: L
+Pendig Books: 0
+Member Id: S1002
+Member Name: Student2
+Member Type: Student
+Book Id: B105
+Book Name: Natures Blueprint: Supersymmetry and the Search for a Unified Theory of Matter and Force
+Number Of Books Available 10
+Transcation Id: T500002
+Issue Date: Thu Jul 27 18:32:12 IST 2017
+Return Date: Thu Jul 27 18:36:23 IST 2017
+Due Date: Thu Jul 27 18:32:12 IST 2017
+Fine Amount: 0.0
+Lib Id: L
+Pendig Books: 1
+Member Id: S1002
+Member Name: Student2
+Member Type: Student
+Book Id: B109
+Book Name: Nuclear Structure from a Simple Perspective - Oxford Studies in Nuclear physics
+Number Of Books Available 9
+Transcation Id: T500003
+Issue Date: Thu Jul 27 18:38:05 IST 2017
+Due Date: Thu Jul 27 18:38:05 IST 2017
+Fine Amount: 0.0
+Lib Id: L
+Pendig Books: -1
+Member Id: S1002
+Member Name: Student2
+Member Type: Student
+Book Id: B115
+Book Name: Classics of Mathematics 
+Number Of Books Available 11
+Transcation Id: T500004
+Issue Date: Thu Jul 27 18:39:43 IST 2017
+Due Date: Thu Jul 27 18:39:43 IST 2017
+Fine Amount: 0.0
+Lib Id: l
+Pendig Books: 8
+Member Id: S1007
+Member Name: Student7
+Member Type: Student
+Book Id: B109
+Book Name: Nuclear Structure from a Simple Perspective - Oxford Studies in Nuclear physics
+Number Of Books Available 2
+Transcation Id: T500005
+Issue Date: Thu Jul 27 18:54:27 IST 2017
+Due Date: Tue Aug 01 18:54:27 IST 2017
+Fine Amount: 0.0
+Lib Id: p
+Pendig Books: 2
+Member Id: S1002
+Member Name: Student2
+Member Type: Student
+Book Id: B109
+Book Name: Nuclear Structure from a Simple Perspective - Oxford Studies in Nuclear physics
+Number Of Books Available 8

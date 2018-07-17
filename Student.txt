@@ -1,0 +1,10 @@
+Aimie,2016/10/08,Ontario,5363926363,5,Student,M
+Student2,2017/07/09,Brampton,7461231234,5,Student,F
+Student3,2015/08/09,Toronto,7461231234,5,Student,M
+Student4,2017/09/09,North York,7461231234,5,Student,F
+Student5,2015/10/09,Mid Town,7461231234,5,Student,M
+Student6,207/11/09,Summer hill,7461231234,5,Student,F
+Student7,2015/12/09,Mississauga,7461231234,5,Student,M
+Student8,2017/11/09,Markham,7461231234,5,Student,F
+Student9,2015/01/09,Oshawa,7461231234,5,Student,M
+Student10,2016/02/09,Brampton,7461231234,5,Student,F

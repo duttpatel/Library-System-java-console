@@ -1,0 +1,5 @@
+Edward,2016/10/07,90 Washington,4342321424,10,Faculty,IT,M
+Faculty1,2016/08/09,Toronto,6472441234,10,Faculty,Maths,F
+Faculty2,2016/08/09,North York,6472443214,10,Faculty,Maths,M
+Faculty3,2016/08/09,Mississauga,6472447263,10,Faculty,Physics,F
+Faculty4,2017/01/09,Richmond Hill,6472447260,10,Faculty,Physics,M

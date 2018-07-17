@@ -1,0 +1,20 @@
+Ronald S. Calinger,Physics Books Author
+Frank H,Physics Books Author
+Jerrold Grossman,Physics Books Author
+Linda Pulsinellir,Physics Books Author
+Ronald E,Physics Books Author
+Merrill,Physics Books Author
+Ashlock,Physics Books Author
+Ronald Staszkow,Physics Books Author
+Edmond C. Tomastik,Physics Books Author
+Gilbert Strang,Physics Books Author
+Charles P. McKeague,Physics Books Author
+Howard Eves,Physics Books Author
+Philip Gilbert,Physics Books Author
+Dr. Rajkumar Buyya,Physics Books Author
+Herbert Schildt,Mathematics Writer
+Julia Case Bradley,Mathematics Writer
+Martin C. Brown,Mathematics Writer
+Wesley Chun,Mathematics Writer
+Tom Negrino,Mathematics Writer
+Shane Gliser,Mathematics Writer

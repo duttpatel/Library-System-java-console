@@ -1,0 +1,26 @@
+How Life Learned to Live: Adaptation in Nature,ISBN 978-0-262-20045-5,60.00,A101,P101,C101,10
+Physics in Molecular Biology, ISBN 0-521-84419-3,70.00,A104,P104,C104,10
+The Early Universe, ISBN 0-201-11604-9,72.00,A102,P102,C102,10
+Methods of theoretical physics, ISBN 978-0-07-043316-8,60.00,A103,P103,C102,10
+Natures Blueprint: Supersymmetry and the Search for a Unified Theory of Matter and Force, ISBN 0-521-84419-3,70.00,A103,P103,C101,10
+Advances in Atomic Molecular and Optical Physics, 9780120038527 / 0120038528,192.00,A106,P106,C101,10
+MRI Atlas of Human White Matter Second Edition , 9780123820815 / 0123820812,90.00,A107,P107,C101,10
+Polarized Light in Optics and Spectroscopy, 9780124149755 / 0124149758,75.00,A108,P108,C101,10
+Nuclear Structure from a Simple Perspective - Oxford Studies in Nuclear physics, 9780195045994 / 0195045998,72.00,A109,P109,C101,10
+The New Science of the Fundamental Physics, 9780217123860 / 0217123864,60.00,A104,P104,C101,10
+Electronic and Vibrational Spectra of Molecules, 9780306108136 / 0306108135,70.00,A111,P111,C101,10
+Burning Plasma: Bringing a Star to Earth, 9780309090827 / 0309090822,192.00,A112,P112,C101,10
+Nuclear Physics: An Introduction, 9780470211304 / 047021130X,60.00,A113,P113,C101,10
+Quantum Mechanics of One- And Two-Electron Atoms, 9780486466675 / 0486466671,70.00,A114,P114,C101,10
+Classics of Mathematics , 9780023183423 / 002318342X,72.00,A115,P115,C102,10
+Basic Statistics: An Inferential Approach, 9780023288012 / 0023288019,60.00,A116,P116,C102,10
+Discrete Mathematics: An Introduction to Concepts Methods and Applications, 9780023483318 / 0023483318,70.00,A117,P117,C102,10
+Introductory Algebra: An Interactive Approach, 9780023969843 / 0023969849,192.00,A118,P118,C102,10
+Probability and Statistics for Engineers and Scientists, 9780024242013 / 0024242012,72.00,A119,P119,C102,10
+Mathematics Connections Integrated And Applied, 9780028247953 / 0028247957,72.00,A101,P121,C102,10
+The Mathematical Palette, 9780030008979 / 0030008972,60.00,A112,P122,C102,10
+Applied Calculus, 9780030068638 / 0030068630,40.00,A103,P123,C102,10
+Linear Algebra and Its Application , 9780030105678 / 0030105676,192.00,A104,P124,C103,10
+Algebra With Trigonometry for College Students, 9780030223143 / 0030223148,170.00,A101,P125,C102,10
+An Introduction to the History of Mathematics (Saunders Series) , 9780030295584 / 0030295580,192.00,A117,P112,C102,10
+Geometry: Applications and Connections, 9780028240008 / 0028240006,71.00,A120,P120,C102,10
